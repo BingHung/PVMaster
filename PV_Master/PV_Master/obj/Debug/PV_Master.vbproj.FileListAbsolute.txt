@@ -1,0 +1,12 @@
+C:\Users\BingHung\source\repos\PV_Master\PV_Master\bin\Debug\PV_Master.exe.config
+C:\Users\BingHung\source\repos\PV_Master\PV_Master\bin\Debug\PV_Master.exe
+C:\Users\BingHung\source\repos\PV_Master\PV_Master\bin\Debug\PV_Master.pdb
+C:\Users\BingHung\source\repos\PV_Master\PV_Master\bin\Debug\PV_Master.xml
+C:\Users\BingHung\source\repos\PV_Master\PV_Master\obj\Debug\PV_Master.vbprojAssemblyReference.cache
+C:\Users\BingHung\source\repos\PV_Master\PV_Master\obj\Debug\PV_Master.Main.resources
+C:\Users\BingHung\source\repos\PV_Master\PV_Master\obj\Debug\PV_Master.Resources.resources
+C:\Users\BingHung\source\repos\PV_Master\PV_Master\obj\Debug\PV_Master.vbproj.GenerateResource.cache
+C:\Users\BingHung\source\repos\PV_Master\PV_Master\obj\Debug\PV_Master.vbproj.CoreCompileInputs.cache
+C:\Users\BingHung\source\repos\PV_Master\PV_Master\obj\Debug\PV_Master.exe
+C:\Users\BingHung\source\repos\PV_Master\PV_Master\obj\Debug\PV_Master.xml
+C:\Users\BingHung\source\repos\PV_Master\PV_Master\obj\Debug\PV_Master.pdb
